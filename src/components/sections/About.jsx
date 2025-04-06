@@ -4,11 +4,13 @@ export const About = () => {
     const frontendSkills = [
         "React",
         "TailwindCSS",
+        "Bootstrap",
         "JavaScript",
         "JQuery"
     ]
     const backendSkills = [
         "PHP",
+        "Node.js",
         "Laravel",
         "MySQL"
     ]
@@ -72,7 +74,7 @@ export const About = () => {
                         <h3 className="text-xl font-bold mb-4">Work Experience</h3>
                         <div>
                             <div className="mb-4">
-                                <h4 className="font-semibold text-blue-400">Frontend Developer at Enoca</h4>
+                                <h4 className="font-semibold text-blue-400">Software Developer at Enoca</h4>
                                 <p className="text-sm text-blue-500 w-fit">(01/2024 - 08/2024)</p>
                                 <p className="font-light">Developed and maintained a self-care company's web page</p>
                             </div>
